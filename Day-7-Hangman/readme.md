@@ -1,1 +1,1 @@
-keyword: while, looping
+keyword: while, looping, function, define function, parameter function
