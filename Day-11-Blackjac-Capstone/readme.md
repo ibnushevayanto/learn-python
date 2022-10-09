@@ -1,0 +1,1 @@
+keyword: random.choice, doctypes
