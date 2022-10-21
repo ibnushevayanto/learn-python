@@ -1,5 +1,4 @@
-from data import MENU
-from data import COIN
+from data import COIN, MENU
 
 resources = {
     "water": 300,
